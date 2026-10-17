@@ -12,7 +12,7 @@
 
 - 🎓  Computer Engineering @ **NAST, Pokhara University**
 - 💻 I love building  —   websites,small projects ,AI ,ML.
-- 🌱 Currently exploring **React**  advanced frontend development and AI and ML
+- 🌱 Currently exploring AI and ML
 - 🚀  Actively learning  software development,AI and Machine Learning
 
 ---
@@ -93,4 +93,5 @@ Hobbies:Poem,Dance,Coding,Music
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>"Coding is learning yourself,improving yourself and researching yourself</i>
 </p>
