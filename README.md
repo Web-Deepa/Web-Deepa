@@ -92,6 +92,6 @@ Hobbies:Poem,Dance,Coding,Music
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-  <i>"Coding is learning yourself,improving yourself and researching yourself</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i> <br>
+  <i>Coding is learning yourself,improving yourself and researching yourself</i>
 </p>
